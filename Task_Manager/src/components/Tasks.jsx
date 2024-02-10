@@ -1,4 +1,4 @@
-import NewTask from './NewTask.jsx';
+import NewTask from './NewTask';
 
 export default function Tasks({ tasks, onAdd, onDelete }) {
   return (
